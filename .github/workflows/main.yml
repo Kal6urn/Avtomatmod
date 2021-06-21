@@ -14,5 +14,5 @@ jobs:
       - uses: JavidPack/tModLoaderPublishIntegration@v0.11.8.3
         with:
           STEAMID64: ${{secrets.76561198022077369}}
-          MODBROWSERPASSPHRASE: ${{secrets.9e98ee7f50b89a5596bfa52b73b2b0a0}}
+          MODBROWSERPASSPHRASE: ${{secrets.e00798d78c6edd9b008b3199188ef228}}
           MODNAME: Avtomatmod
